@@ -1,0 +1,25 @@
+body{
+    background-color: #FFFDD0;
+}
+
+.title{
+    font-size: 3.5em;
+    text-align: center;
+    color: red;
+    font-family:'Pacifico',cursive;
+}
+
+.month{
+    text-align: center;
+    
+
+}
+
+#calenderMenu{
+    font-size: 1em;
+    text-align: center;
+    margin-left: 670px;
+}
+
+  
+  
